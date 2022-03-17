@@ -1,5 +1,5 @@
 # Alternating Blockquotes
-CodePlayer Alternating Blockquotes project. Made with HTML and CSS.
+CodePlayer Alternating Blockquotes project. 
 
 ## Instructions
 Clone repo or download zip file. Open index.html file in browser.
